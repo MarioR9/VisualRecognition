@@ -7,3 +7,4 @@ POssible React Native.
 
 *classify images
 *select image and trnalsate open camera
+*react native or angular
