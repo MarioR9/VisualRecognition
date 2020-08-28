@@ -6,3 +6,4 @@ object recogniton Project
 POssible React Native.
 
 *classify images
+*select image and trnalsate open camera
